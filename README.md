@@ -11,7 +11,10 @@ Videoyu izleyerek Microsoft SQL Server ve Managment kurulumnu gerçekleştirebil
 
 https://www.youtube.com/watch?v=hhUvUIf9y6I&vl=tr
 
-Videoyu izleyerek size verdiğimiz örnek veritabanını(".bak") veritabanına import edebilirsiniz.
+Videoyu izleyerek size verdiğimiz örnek veritabanını("Northwind.bak") veritabanına import edebilirsiniz.
+
+https://youtu.be/dCSkov0OfHM?t=32
+
 
 Etkinlik Başlıkları: 
 
