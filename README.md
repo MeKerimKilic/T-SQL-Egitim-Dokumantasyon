@@ -7,6 +7,11 @@ Siteleriniz sayesinde topladığınız veriler doğru yapılar ile kategorize et
 
 Öğrendiklerinizle veritabanı kısmında en üst seviyede işlemler yaparak daha düşük sunucularda bile daha güçlü hizmetler verebileceksiniz. Artı olarak PHP veya herhangi bir back-end dili ile yaptığınız işlemleri veritabanın da yaparak iş yüklerini bölebileceksiniz.
 
+Videoyu izleyerek Microsoft SQL Server ve Managment kurulumnu gerçekleştirebilirsiniz.
+
+https://www.youtube.com/watch?v=hhUvUIf9y6I&vl=tr
+
+Videoyu izleyerek size verdiğimiz örnek veritabanını(".bak") veritabanına import edebilirsiniz.
 
 Etkinlik Başlıkları: 
 
