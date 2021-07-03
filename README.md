@@ -1,4 +1,7 @@
 # T-SQL-Egitim-Dokumantasyon
+![image](https://user-images.githubusercontent.com/51862093/124363054-a4c08f00-dc41-11eb-9047-c91613f08305.png)
+
+
 Dünyamızda gerçekleşen dijital dönüşümün etkileri her açıdan hissediliyor. En çok hissedilen Web Development hakkından her birey kendi E-Ticaret, Blog v.b. internet sitelerini geliştirmekte veya bu gelişimleri sağlamak amacıyla çeşitli programlama dillerine merak salarak öğreniyor. Bu sayede birbirinden güzel yapılar ile çok güzel tasarımlı siteler kurabiliyorlar ancak burada unutulan bir kısım var oda veritabanı bu kısmın önemini şu şekilde açıklayalım.
 
 
